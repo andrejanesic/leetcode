@@ -8,5 +8,6 @@ Solutions to a selection of LeetCode problems.
 | 219. Contains Duplicate II | [Python](./problems/219.%20Contains%20Duplicate%20II/main.py) |
 | 313. Super Ugly Number | [Python](./problems/313.%20Super%20Ugly%20Number/main.py) |
 | 496. Next Greater Element I | [Python](./problems/496.%20Next%20Greater%20Element%20I/main.py) |
+| 503. Next Greater Element II | [Python](./problems/503.%20Next%20Greater%20Element%20II/main.py) |
 | 876. Middle of the Linked List | [Java](./problems/876.%20Middle%20of%20the%20Linked%20List/Solution.java) |
 | 1669. Merge In Between Linked Lists | [Python](./problems/1669.%20Merge%20In%20Between%20Linked%20Lists/main.py) |
