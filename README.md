@@ -12,6 +12,7 @@ Solutions to a selection of LeetCode problems.
 | 313. Super Ugly Number | [Python](./problems/313.%20Super%20Ugly%20Number/main.py) |
 | 496. Next Greater Element I | [Python](./problems/496.%20Next%20Greater%20Element%20I/main.py) |
 | 503. Next Greater Element II | [Python](./problems/503.%20Next%20Greater%20Element%20II/main.py) |
+| 682. Baseball Game | [Python](./problems/682.%20Baseball%20Game/main.py) |
 | 769. Max Chunks To Make Sorted | [Python](./problems/769.%20Max%20Chunks%20To%20Make%20Sorted/main.py) |
 | 856. Score of Parentheses | [Python](./problems/856.%20Score%20of%20Parentheses/main.py) |
 | 876. Middle of the Linked List | [Java](./problems/876.%20Middle%20of%20the%20Linked%20List/Solution.java) |
