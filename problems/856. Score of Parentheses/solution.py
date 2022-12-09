@@ -28,7 +28,6 @@ s consists of only '(' and ')'.
 s is a balanced parentheses string.
 """
 
-
 class Solution:
     def scoreOfParentheses(self, s: str) -> int:
         parentheses = []
