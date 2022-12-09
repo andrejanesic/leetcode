@@ -13,6 +13,7 @@ Solutions to a selection of LeetCode problems.
 | 496. Next Greater Element I | [Python](./problems/496.%20Next%20Greater%20Element%20I/solution.py) |
 | 503. Next Greater Element II | [Python](./problems/503.%20Next%20Greater%20Element%20II/solution.py) |
 | 589. N-ary Tree Preorder Traversal | [Python](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal/solution.py) |
+| 590. N-ary Tree Postorder Traversal | [Python](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal/solution.py) |
 | 682. Baseball Game | [Python](./problems/682.%20Baseball%20Game/solution.py) |
 | 769. Max Chunks To Make Sorted | [Python](./problems/769.%20Max%20Chunks%20To%20Make%20Sorted/solution.py) |
 | 856. Score of Parentheses | [Python](./problems/856.%20Score%20of%20Parentheses/solution.py) |
