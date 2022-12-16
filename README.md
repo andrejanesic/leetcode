@@ -20,6 +20,7 @@ Solutions to a selection of LeetCode problems.
 | 590. N-ary Tree Postorder Traversal | [Python](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal/solution.py) |
 | 682. Baseball Game | [Python](./problems/682.%20Baseball%20Game/solution.py) |
 | 739. Daily Temperatures | [Python](./problems/739.%20Daily%20Temperatures/solution.py) |
+| 747. Largest Number At Least Twice of Others | [Python](./problems/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/dominant_index.py) |
 | 769. Max Chunks To Make Sorted | [Python](./problems/769.%20Max%20Chunks%20To%20Make%20Sorted/solution.py) |
 | 856. Score of Parentheses | [Python](./problems/856.%20Score%20of%20Parentheses/solution.py) |
 | 876. Middle of the Linked List | [Java](./problems/876.%20Middle%20of%20the%20Linked%20List/Solution.java) |
