@@ -1,6 +1,8 @@
 # LeetCode Solutions
 Solutions to a selection of LeetCode problems.
 
+[![Author](https://andrejanesic.com/git-signature-small.png)](https://github.com/andrejanesic)
+
 | Problem | Solution |
 | --- | --- |
 | 61. Rotate List | [Python](./problems/61.%20Rotate%20List/solution.py) |
