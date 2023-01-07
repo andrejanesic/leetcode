@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solutions to a selection of LeetCode problems.
 
-[![Author](https://andrejanesic.com/git-signature-small.png)](https://github.com/andrejanesic)
+
 
 | Problem | Solution |
 | --- | --- |
