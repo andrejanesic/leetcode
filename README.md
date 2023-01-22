@@ -6,6 +6,7 @@ Solutions to a selection of LeetCode problems.
 | Problem | Solution |
 | --- | --- |
 | 5. Longest Palindromic Substring | [Python](./problems/5.%20Longest%20Palindromic%20Substring/solution.py) |
+| 23. Merge k Sorted Lists | [Java](./problems/23.%20Merge%20k%20Sorted%20Lists/Solution.java) |
 | 57. Insert Interval | [Python](./problems/57.%20Insert%20Interval/solution.py) |
 | 61. Rotate List | [Python](./problems/61.%20Rotate%20List/solution.py) |
 | 84. Largest Rectangle in Histogram | [Python](./problems/84.%20Largest%20Rectangle%20in%20Histogram/solution.py) |
