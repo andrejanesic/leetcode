@@ -16,6 +16,7 @@ Solutions to a selection of LeetCode problems.
 | 84. Largest Rectangle in Histogram | [Python](./problems/84.%20Largest%20Rectangle%20in%20Histogram/solution.py) |
 | 85. Maximal Rectangle | [Python](./problems/85.%20Maximal%20Rectangle/solution.py) |
 | 94. Binary Tree Inorder Traversal | [Python](./problems/94.%20Binary%20Tree%20Inorder%20Traversal/solution.py) |
+| 121. Best Time to Buy and Sell Stock | [Python](./problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py) |
 | 123. Best Time to Buy and Sell Stock III | [Python](./problems/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/solution.py) |
 | 134. Gas Station | [Python](./problems/134.%20Gas%20Station/solution.py) |
 | 142. Linked List Cycle II | [Python](./problems/142.%20Linked%20List%20Cycle%20II/solution.py) |
