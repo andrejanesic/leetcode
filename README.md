@@ -36,6 +36,7 @@ Solutions to a selection of LeetCode problems.
 | 876. Middle of the Linked List | [Java](./problems/876.%20Middle%20of%20the%20Linked%20List/Solution.java) |
 | 897. Increasing Order Search Tree | [Python](./problems/897.%20Increasing%20Order%20Search%20Tree/solution.py) |
 | 933. Number of Recent Calls | [Python](./problems/933.%20Number%20of%20Recent%20Calls/recentCounter.py) |
+| 980. Unique Paths III | [Python](./problems/980.%20Unique%20Paths%20III/solution.py) |
 | 1352. Product of the Last K Numbers | [Python](./problems/1352.%20Product%20of%20the%20Last%20K%20Numbers/productOfNumbers.py) |
 | 1669. Merge In Between Linked Lists | [Python](./problems/1669.%20Merge%20In%20Between%20Linked%20Lists/solution.py) |
 | 2231. Largest Number After Digit Swaps by Parity | [Java](./problems/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/Solution.java) |
