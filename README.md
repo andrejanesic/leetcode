@@ -11,6 +11,7 @@ Solutions to a selection of LeetCode problems.
 | 57. Insert Interval | [Python](./problems/57.%20Insert%20Interval/solution.py) |
 | 61. Rotate List | [Python](./problems/61.%20Rotate%20List/solution.py) |
 | 62. Unique Paths | [Python](./problems/63.%20Unique%20Paths/solution.py) |
+| 63. Unique Paths II | [Python](./problems/63.%20Unique%20Paths%20II/solution.py) |
 | 84. Largest Rectangle in Histogram | [Python](./problems/84.%20Largest%20Rectangle%20in%20Histogram/solution.py) |
 | 85. Maximal Rectangle | [Python](./problems/85.%20Maximal%20Rectangle/solution.py) |
 | 94. Binary Tree Inorder Traversal | [Python](./problems/94.%20Binary%20Tree%20Inorder%20Traversal/solution.py) |
