@@ -19,6 +19,7 @@ Solutions to a selection of LeetCode problems.
 | 134. Gas Station | [Python](./problems/134.%20Gas%20Station/solution.py) |
 | 144. Binary Tree Preorder Traversal | [Python](./problems/144.%20Binary%20Tree%20Preorder%20Traversal/solution.py) |
 | 198. House Robber | [Python](./problems/198.%20House%20Robber/solution.py) |
+| 205. Isomorphic Strings | [Python](./problems/205.%20Isomorphic%20Strings/solution.py) |
 | 219. Contains Duplicate II | [Python](./problems/219.%20Contains%20Duplicate%20II/solution.py) |
 | 232. Implement Queue using Stacks | [Java](./problems/232.%20Implement%20Queue%20using%20Stacks/MyQueue.java) |
 | 290. Word Pattern | [Python](./problems/290.%20Word%20Pattern/solution.py) |
