@@ -24,6 +24,7 @@ Solutions to a selection of LeetCode problems.
 | 232. Implement Queue using Stacks | [Java](./problems/232.%20Implement%20Queue%20using%20Stacks/MyQueue.java) |
 | 290. Word Pattern | [Python](./problems/290.%20Word%20Pattern/solution.py) |
 | 313. Super Ugly Number | [Python](./problems/313.%20Super%20Ugly%20Number/solution.py) |
+| 392. Is Subsequence | [Python](./problems/392.%20Is%20Subsequence/solution.py) |
 | 496. Next Greater Element I | [Python](./problems/496.%20Next%20Greater%20Element%20I/solution.py) |
 | 503. Next Greater Element II | [Python](./problems/503.%20Next%20Greater%20Element%20II/solution.py) |
 | 506. Relative Ranks | [Python](./problems/506.%20Relative%20Ranks/solution.py) |
