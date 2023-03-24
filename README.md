@@ -37,6 +37,7 @@ Solutions to a selection of LeetCode problems.
 | 589. N-ary Tree Preorder Traversal | [Python](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal/solution.py) |
 | 590. N-ary Tree Postorder Traversal | [Python](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal/solution.py) |
 | 682. Baseball Game | [Python](./problems/682.%20Baseball%20Game/solution.py) |
+| 704. Binary Search | [Python](./problems/704.%20Binary%20Search/solution.py) |
 | 724. Find Pivot Index | [Python](./problems/724.%20Find%20Pivot%20Index/solution.py) |
 | 739. Daily Temperatures | [Python](./problems/739.%20Daily%20Temperatures/solution.py) |
 | 747. Largest Number At Least Twice of Others | [Python](./problems/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/dominant_index.py) |
