@@ -66,7 +66,7 @@ class Solution:
 
         # Next, run DFS from end to start, and keep the
         # visited nodes in a set:
-        def dfs(node: Tuple[int, int], count: int, visited: Set[Tuple[int, int]]) -> (int, Set):
+        def dfs(node: Tuple[int, int], count: int, visited: Set[Tuple[int, int]]) -> Tuple[int, Set]:
             y, x = node
             count += 1
 
