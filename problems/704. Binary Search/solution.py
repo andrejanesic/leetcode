@@ -31,7 +31,7 @@ class Solution:
             m = (l + r) // 2
             if nums[m] == target:
                 return m
-            if l == r:
-                return -1
-            return max(binsearch(l, m - 1), binsearch(m + 1, r))
+            if target <= nums[m]:
+                return binsearch(l, m - 1)
+            return binsearch(m + 1, r)
         return binsearch(0, len(nums) - 1)
