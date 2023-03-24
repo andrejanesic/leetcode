@@ -6,6 +6,7 @@ Solutions to a selection of LeetCode problems.
 | Problem | Solution |
 | --- | --- |
 | 5. Longest Palindromic Substring | [Python](./problems/5.%20Longest%20Palindromic%20Substring/solution.py) |
+| 21. Merge Two Sorted Lists | [Python](./problems/21.%20Merge%20Two%20Sorted%20Lists/solution.py) |
 | 23. Merge k Sorted Lists | [Java](./problems/23.%20Merge%20k%20Sorted%20Lists/Solution.java) |
 | 56. Merge Intervals | [Java](./problems/56.%20Merge%20Intervals/Solution.java) |
 | 57. Insert Interval | [Python](./problems/57.%20Insert%20Interval/solution.py) |
