@@ -35,6 +35,7 @@ Solutions to a selection of LeetCode problems.
 | 313. Super Ugly Number | [Python](./problems/313.%20Super%20Ugly%20Number/solution.py) |
 | 392. Is Subsequence | [Python](./problems/392.%20Is%20Subsequence/solution.py) |
 | 409. Longest Palindrome | [Python](./problems/409.%20Longest%20Palindrome/solution.py) |
+| 438. Find All Anagrams in a String | [Python](./problems/438.%20Find%20All%20Anagrams%20in%20a%20String/solution.py) |
 | 496. Next Greater Element I | [Python](./problems/496.%20Next%20Greater%20Element%20I/solution.py) |
 | 503. Next Greater Element II | [Python](./problems/503.%20Next%20Greater%20Element%20II/solution.py) |
 | 506. Relative Ranks | [Python](./problems/506.%20Relative%20Ranks/solution.py) |
@@ -46,6 +47,7 @@ Solutions to a selection of LeetCode problems.
 | 724. Find Pivot Index | [Python](./problems/724.%20Find%20Pivot%20Index/solution.py) |
 | 733. Flood Fill | [Python](./problems/733.%20Flood%20Fill/solution.py) |
 | 739. Daily Temperatures | [Python](./problems/739.%20Daily%20Temperatures/solution.py) |
+| 746. Min Cost Climbing Stairs | [Python](./problems/746.%20Min%20Cost%20Climbing%20Stairs/solution.py) |
 | 747. Largest Number At Least Twice of Others | [Python](./problems/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/dominant_index.py) |
 | 769. Max Chunks To Make Sorted | [Python](./problems/769.%20Max%20Chunks%20To%20Make%20Sorted/solution.py) |
 | 853. Car Fleet | [Python](./problems/853.%20Car%20Fleet/solution.py) |
