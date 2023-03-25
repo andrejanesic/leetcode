@@ -43,6 +43,7 @@ Solutions to a selection of LeetCode problems.
 | 739. Daily Temperatures | [Python](./problems/739.%20Daily%20Temperatures/solution.py) |
 | 747. Largest Number At Least Twice of Others | [Python](./problems/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/dominant_index.py) |
 | 769. Max Chunks To Make Sorted | [Python](./problems/769.%20Max%20Chunks%20To%20Make%20Sorted/solution.py) |
+| 853. Car Fleet | [Python](./problems/853.%20Car%20Fleet/solution.py) |
 | 856. Score of Parentheses | [Python](./problems/856.%20Score%20of%20Parentheses/solution.py) |
 | 876. Middle of the Linked List | [Java](./problems/876.%20Middle%20of%20the%20Linked%20List/Solution.java) |
 | 897. Increasing Order Search Tree | [Python](./problems/897.%20Increasing%20Order%20Search%20Tree/solution.py) |
