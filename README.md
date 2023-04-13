@@ -34,6 +34,7 @@ Solutions to a selection of LeetCode problems.
 | 290. Word Pattern | [Python](./problems/290.%20Word%20Pattern/solution.py) |
 | 313. Super Ugly Number | [Python](./problems/313.%20Super%20Ugly%20Number/solution.py) |
 | 392. Is Subsequence | [Python](./problems/392.%20Is%20Subsequence/solution.py) |
+| 397. Integer Replacement | [Python](./problems/397.%20Integer%20Replacement/solution.py) |
 | 409. Longest Palindrome | [Python](./problems/409.%20Longest%20Palindrome/solution.py) |
 | 438. Find All Anagrams in a String | [Python](./problems/438.%20Find%20All%20Anagrams%20in%20a%20String/solution.py) |
 | 496. Next Greater Element I | [Python](./problems/496.%20Next%20Greater%20Element%20I/solution.py) |
