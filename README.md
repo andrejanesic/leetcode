@@ -33,6 +33,7 @@ Solutions to a selection of LeetCode problems.
 | 278. First Bad Version | [Python](./problems/278.%20First%20Bad%20Version/solution.py) |
 | 290. Word Pattern | [Python](./problems/290.%20Word%20Pattern/solution.py) |
 | 313. Super Ugly Number | [Python](./problems/313.%20Super%20Ugly%20Number/solution.py) |
+| 322. Coin Change | [Python](./problems/322.%20Coin%20Change/solution.py) |
 | 392. Is Subsequence | [Python](./problems/392.%20Is%20Subsequence/solution.py) |
 | 397. Integer Replacement | [Python](./problems/397.%20Integer%20Replacement/solution.py) |
 | 409. Longest Palindrome | [Python](./problems/409.%20Longest%20Palindrome/solution.py) |
